@@ -1,9 +1,8 @@
 <?php
 function test(){
-    $name = 'zeng';
-    $a = 2;
-    $i = 0;
-    $c = 5;
-    $age = 55;
+    $a = 1;
+    $b = 2;
+    $c = 3;
+
 
 }
